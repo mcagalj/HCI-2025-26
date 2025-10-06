@@ -22,26 +22,26 @@ A sitemap is a visual representation of the structure and organization of a webs
 
 ### Basic Sitemap
 
-![Sitemap](sitemap.png)
+<img src="sitemap.png" alt="Sitemap" style="max-width: 100%; width: 800px; display: block; margin: 0 auto;">
 
 ## Wireframe
 
 ### Desktop: Home Page
 
-![Wireframe](wireframe.png)
+<img src="wireframe.png" alt="Wireframe" style="max-width: 100%; width: 800px; display: block; margin: 0 auto;">
 
 ## Low Fidelity Prototype
 
 ### Desktop: Homepage
 
-![Homepage - LoFi](homepage_lofi.png)
+<img src="homepage_lofi.png" alt="Homepage - LoFi" style="max-width: 100%; width: 800px; display: block; margin: 0 auto;">
 
 ## High Fidelity Prototype
 
 ### Mobile: Homepage
 
-![Homepage mobile - HiFi](homepage_hifi_mobile.png)
+<img src="homepage_hifi_mobile.png" alt="Homepage mobile - HiFi" style="max-width: 100%; width: 200px; display: block; margin: 0 auto;">
 
 ### Desktop: Homepage
 
-![Homepage - HiFi](homepage_hifi.png)
+<img src="homepage_hifi.png" alt="Homepage - HiFi" style="max-width: 100%; width: 800px; display: block; margin: 0 auto;">
