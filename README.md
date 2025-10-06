@@ -4,6 +4,17 @@
 
 Studenti će realizirati praktičan projekt u kojem će primijeniti odgovarajuće principe _dobrog dizajna_. Projekt će realizirati korištenjem React okvira za izradu _full-stack_ web aplikacija - [Next.js](https://nextjs.org/).
 
+### Sadržaj
+
+- [Faze rada na projektu](#faze-rada-na-projektu)
+- [Zahtjevi, demonstracija projekta i izvještaj](#zahtjevi-demonstracija-projekta-i-izvještaj)
+- [Praktične vježbe](#prakti%C4%8Dne-vje%C5%BEbe)
+
+### Važni linkovi <!-- omit in toc -->
+
+- [Web stranica predmeta](https://hci.mario-cagalj.from.hr/)
+- [Predložak README datoteke za vaš GitHub repo](/docs/readme-template/README.md)
+
 ## Faze rada na projektu
 
 Dizajn sučelja i interakcija iterativni je postupak koji uključuje faze _dizajna_, _implementacije_ i _evaluacije_.
@@ -20,7 +31,7 @@ Dizajn sučelja i interakcija iterativni je postupak koji uključuje faze _dizaj
 
    > Pokušajte odoljeti programerskom porivu da u ovoj fazi otvorite vaš preferirani editor i započnete programirati. U ovoj fazi razvoja projekta vaš najbolji prijatelj su olovka i papir, razni grafički editori (npr. [Excalidraw](https://excalidraw.com/)) te alati za brzu izradu prototipa (npr. [Figma](https://www.figma.com), [Balsamiq](https://balsamiq.com/wireframes/), [Sketch](https://www.sketch.com/), [inVision](https://www.invisionapp.com/), [Draw.io](https://drawio-app.com/)).
 
-   Izradite _low-_ i _high-fidelity_ prototipove; evaluirajte ih s kolegama ili profesorom kako biste rano uklonili \_usability probleme.
+   Izradite _low-_ i _high-fidelity_ prototipove; evaluirajte ih s kolegama ili profesorom kako biste rano uklonili _usability_ probleme.
 
 3. **Implementacija prototipa i njegova evaluacija**
 
